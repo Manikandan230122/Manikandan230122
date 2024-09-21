@@ -2,7 +2,7 @@
 ### Who Am I?
 
   * I'm Manikandan T
-  * flutter and java lover
+  * Java lover
   * Now Going Graduation but,
     I've Done Some Project as a App Developer and Web Developer
   * 20 Years Young Programmer
