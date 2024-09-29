@@ -25,11 +25,11 @@ Git           78.00 %   ██████████████████�
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=satheesh2705&show_icons=true&theme=algolia&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satheesh2705&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Manikandan230122&show_icons=true&theme=algolia&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan230122&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
 
-<img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=satheesh2705&bg_color=red&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" />
+<img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Manikandan230122&bg_color=red&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" />
 
 **Keep Support For my Projects**
 
